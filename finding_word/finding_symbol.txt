@@ -1,0 +1,3 @@
+Linie, gdzie znak 'a' wystapil wiecej niz 10 razy:
+	11 razy | Curabitur vitae ante. Quisque vitae massa augue, ullamcorper in, augue. Maecenas nec velit si
+	12 razy | gravida ullamcorper ut, fermentum neque magna diam, viverra ligula. Aenean gravida diam. 

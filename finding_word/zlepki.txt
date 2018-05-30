@@ -1,0 +1,2 @@
+Znaleziono nastepujace zlepki 3-literowe:
+{'ACC': 1, 'CTT': 1, 'ACA': 1, 'AAA': 2, 'AAC': 1, 'ATA': 4, 'AGG': 1, 'AGC': 1, 'AGA': 1, 'AAT': 2, 'CTA': 2, 'ACT': 2, 'CAA': 2, 'CCA': 2, 'CCC': 1, 'TAT': 2, 'TGT': 1, 'GAT': 2, 'TTT': 1, 'TAG': 3, 'GGA': 1, 'TAC': 3, 'TTA': 2, 'TTG': 1, 'GTA': 1}

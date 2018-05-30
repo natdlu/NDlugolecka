@@ -1,0 +1,3 @@
+Wyniki szukania slowa 'Duis':
+> znaleziono w sumie: 10
+> pozycje: [60, 175, 409, 424, 508, 599, 642, 732, 813, 878]
